@@ -6,8 +6,10 @@
 </p>
 
  <h2>Descrição do Projeto</h2>
- Este projeto é um protótipo de um aplicativo mobile que reúne informações de filmes famosos. A proposta é apresentar informações relevantes sobre cada filme, incluindo sinopse, elenco, desenvolvedores, ano de lançamento, trailer, galeria
- <p>
+<p>
+ Este projeto é um protótipo de um aplicativo mobile que reúne informações de filmes famosos. A proposta é apresentar informações relevantes sobre cada filme, incluindo sinopse, elenco, desenvolvedores, ano de lançamento, trailer, galeria.
+</p>
+
    
  </p>
 
