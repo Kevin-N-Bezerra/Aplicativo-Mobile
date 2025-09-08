@@ -1,6 +1,6 @@
 # Aplicativo-Mobile
 
-<h2>Integrantes</h2> João Paulo B.P. de Carvalho Filho e 
+<h2>Integrantes</h2>
 <p>João Paulo B.P. de Carvalho Filho <br>
   Kevin NOvais Bezerra
 </p>
