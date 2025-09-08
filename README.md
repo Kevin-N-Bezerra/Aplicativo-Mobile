@@ -13,3 +13,4 @@
 ## Súmario:
 - [Home](https://github.com/Kevin-N-Bezerra/Aplicativo-Mobile/wiki)
 - [Protótipo](https://github.com/Kevin-N-Bezerra/Aplicativo-Mobile/wiki/Prot%C3%B3tipo)
+- [Diagrama de Classes](https://github.com/Kevin-N-Bezerra/Aplicativo-Mobile/wiki/2.-Diagrama-de-Classes)
