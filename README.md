@@ -2,7 +2,7 @@
 
 <h2>Integrantes</h2>
 <p>João Paulo B.P. de Carvalho Filho <br>
-  Kevin NOvais Bezerra
+  Kevin Novais Bezerra
 </p>
 
  <h2>Descrição do Projeto</h2>
