@@ -1,3 +1,3 @@
 # Aplicativo-Mobile
 
-- Nomes:
+- Nomes: João Paulo B.P. de Carvalho Filho e Kevin Novais Bezerra
