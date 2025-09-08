@@ -5,4 +5,4 @@
 
 - Descrição Resumida:
 
--Súmario:
+- Súmario:
