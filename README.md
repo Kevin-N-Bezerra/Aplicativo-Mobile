@@ -11,5 +11,4 @@
  </p>
 
 ## Súmario:
--
-[Home](https://github.com/Kevin-N-Bezerra/Aplicativo-Mobile/wiki)
+- [Home](https://github.com/Kevin-N-Bezerra/Aplicativo-Mobile/wiki)
