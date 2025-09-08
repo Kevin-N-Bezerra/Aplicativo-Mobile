@@ -7,11 +7,8 @@
 
  <h2>Descrição do Projeto</h2>
 <p>
- Este projeto é um protótipo de um aplicativo mobile que reúne informações de filmes famosos. A proposta é apresentar informações relevantes sobre cada filme, incluindo sinopse, elenco, desenvolvedores, ano de lançamento, trailer, galeria.
+ Este projeto é um protótipo de um aplicativo mobile que reúne filmes famosos. A proposta é apresentar informações relevantes sobre cada filme, incluindo trailer, sinopse, galeria, elenco, desenvolvedora, data de lançamento e mais.
 </p>
-
-   
- </p>
 
 ## Súmario:
 - [Home](https://github.com/Kevin-N-Bezerra/Aplicativo-Mobile/wiki)
