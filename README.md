@@ -3,7 +3,7 @@
 <h1>5ive Filmes</h1>
 
 <h2>Integrantes</h2>
-<p>João Paulo B.P. de Carvalho Filho <br>
+<p>João Paulo B P de Carvalho Filho <br>
   Kevin Novais Bezerra
 </p>
 
